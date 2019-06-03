@@ -1,0 +1,15 @@
+{
+  "name": "keylogger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keylogger.js",
+  "scripts": {
+    "start": "node keylogger.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "iohook": "^0.4.6"
+  }
+}
